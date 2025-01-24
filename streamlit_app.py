@@ -1,4 +1,6 @@
-streamlit run streamlit_app.py
+import streamlit as st
+
+st.title("Welcome to Audio Enhancer Pro!")
 import os
 import numpy as np
 import librosa
