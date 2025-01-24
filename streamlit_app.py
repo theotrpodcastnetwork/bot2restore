@@ -1,4 +1,3 @@
-streamlit run streamlit_app.py
 import os
 import numpy as np
 import librosa
