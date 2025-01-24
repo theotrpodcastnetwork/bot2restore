@@ -1,4 +1,4 @@
-import streamlit as st
+streamlit run streamlit_app.py
 
 st.title("Welcome to Audio Enhancer Pro!")
 import os
